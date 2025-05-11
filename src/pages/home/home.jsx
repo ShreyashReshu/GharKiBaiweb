@@ -13,7 +13,7 @@ const Home = () => {
 
       {/* Call Now Section */}
       <section className="call-now bg-[#FAFAFA] text-[#004A7C] py-4 sm:py-6">
-        <h2 className="text-2xl sm:text-3xl font-bold text-center">Call Now: 123-456-7890</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-center">Call Now: 969-335-4872</h2>
       </section>
 
       {/* WHY CHOOSE US Section */}
